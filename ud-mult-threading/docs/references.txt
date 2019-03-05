@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/3446011/threadpoolexecutor-block-when-queue-is-full
+https://howtodoinjava.com/java/multi-threading/java-thread-pool-executor-example/
+https://www.concretepage.com/java/example_threadpoolexecutor_java
+http://programmingexamples.wikidot.com/threadpoolexecutor
+http://tutorials.jenkov.com/java-util-concurrent/threadpoolexecutor.html
